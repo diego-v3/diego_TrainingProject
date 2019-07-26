@@ -36,10 +36,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1563994605692,
-            "changeTime": 1563994605692,
-            "contentHash": "ae13c785be77e9a515424bca3c91a2b2bb6b79b1"
+            "size": 352,
+            "modifiedTime": 1564155976968,
+            "changeTime": 1564155976968,
+            "contentHash": "06dab316d5274fa594089e43edf0679fa15c1719"
         }
     ],
     [
@@ -75,16 +75,14 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1563981393724,
-            "changeTime": 1563981397047,
-            "contentHash": "08272c2ec52968375ac7cd6a4a1dc5123304033f",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1564155976945,
+            "changeTime": 1564155976945,
+            "contentHash": "9043ed458004994da40d973ac25bfdda2f549d47"
         }
     ],
     [
@@ -108,13 +106,12 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_resultsBySurvey/surveyMonkey_resultsBySurvey.cmp",
             "isDirectory": false,
             "size": 8153,
-            "modifiedTime": 1563981393721,
-            "changeTime": 1563981397080,
+            "modifiedTime": 1563997676547,
+            "changeTime": 1563997676547,
             "contentHash": "4828702fb214b5780c3d55f163cf5955cc4cbbe7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -315,16 +312,14 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1563981393726,
-            "changeTime": 1563981397334,
-            "contentHash": "f1a9aa193b488e550c549726090b651a83d2436e",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 128,
+            "modifiedTime": 1564155976975,
+            "changeTime": 1564155976975,
+            "contentHash": "a94e6daa29cdd3c4e9df04479657bd97158d286c"
         }
     ],
     [
@@ -345,14 +340,14 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1563994605751,
             "changeTime": 1563994605751,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -362,10 +357,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 23063,
-            "modifiedTime": 1563994605736,
-            "changeTime": 1563994605736,
-            "contentHash": "6b5f06896de18dacb5ed6f8f710596b2dac8b105"
+            "size": 23186,
+            "modifiedTime": 1564155977113,
+            "changeTime": 1564155977113,
+            "contentHash": "1ce1789d1bdfeaaaad8a061599869468fe3ff698"
         }
     ],
     [
@@ -416,16 +411,14 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1563981393728,
-            "changeTime": 1563981398810,
-            "contentHash": "d8c343286392edf9cb8c17f5ad207065322e5b1b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1564155977150,
+            "changeTime": 1564155977150,
+            "contentHash": "1b0a8b6fb0f119e32479fbd26b14a5191ff60eae"
         }
     ],
     [
@@ -478,27 +471,26 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1563981552396,
-            "changeTime": 1563981552396,
-            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "size": 352,
+            "modifiedTime": 1563994939563,
+            "changeTime": 1563994939563,
+            "contentHash": "f0972cd26950b841a7778f654f5f6e688d41cd09",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c/Taken_Survey__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c/Taken_Survey__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2074,
             "modifiedTime": 1563994605653,
             "changeTime": 1563994605653,
-            "contentHash": "bf960f61c97872b49b294f7f4725c5c2197378b2"
+            "contentHash": "bf960f61c97872b49b294f7f4725c5c2197378b2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -508,153 +500,140 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c/fields/Survey__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 510,
-            "modifiedTime": 1563994605655,
-            "changeTime": 1563994605655,
-            "contentHash": "2e74100e4166d644ed3dec549f7ed1030df5ec56"
+            "size": 507,
+            "modifiedTime": 1564155976954,
+            "changeTime": 1564155976954,
+            "contentHash": "006173fe99ea3573f6c36ee51020d4e65be3f147"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Survey__c/Survey__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Survey__c/Survey__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2056,
             "modifiedTime": 1563994605661,
             "changeTime": 1563994605661,
-            "contentHash": "8e2b7e8f7e09dbae650d1ce25bc5d87e7408d19d"
+            "contentHash": "8e2b7e8f7e09dbae650d1ce25bc5d87e7408d19d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/Answer__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/Answer__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2092,
             "modifiedTime": 1563994605668,
             "changeTime": 1563994605668,
-            "contentHash": "758a0f8e959b52973d00cb9f2a5190080a9045c8"
+            "contentHash": "758a0f8e959b52973d00cb9f2a5190080a9045c8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields/Order_Number__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields/Order_Number__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1563994605668,
             "changeTime": 1563994605668,
-            "contentHash": "7f26b0a3d8d3976993c4022af471c505c3d63cb3"
+            "contentHash": "7f26b0a3d8d3976993c4022af471c505c3d63cb3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields/Question__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields/Question__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 504,
             "modifiedTime": 1563994605669,
             "changeTime": 1563994605669,
-            "contentHash": "27221e4d52f8d77c5022d231ecf6c7fdf499d929"
+            "contentHash": "27221e4d52f8d77c5022d231ecf6c7fdf499d929",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/Selected_Answer__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/Selected_Answer__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2084,
             "modifiedTime": 1563994605677,
             "changeTime": 1563994605677,
-            "contentHash": "4e594004682bf6726a739e97e5afe021a4bf59f5"
+            "contentHash": "4e594004682bf6726a739e97e5afe021a4bf59f5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Answer__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Answer__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 516,
             "modifiedTime": 1563994605678,
             "changeTime": 1563994605678,
-            "contentHash": "5c6434acaac8f2b8a98e1f589f2c6909b710d95f"
+            "contentHash": "5c6434acaac8f2b8a98e1f589f2c6909b710d95f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Question__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Question__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 522,
             "modifiedTime": 1563994605678,
             "changeTime": 1563994605678,
-            "contentHash": "26e3836ffa41fd296b02666f74a9eb4bf34a0de9"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Survey__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Survey__c.field-meta.xml",
-            "isDirectory": false,
+            "contentHash": "26e3836ffa41fd296b02666f74a9eb4bf34a0de9",
             "isMetadataFile": true,
-            "size": 516,
-            "modifiedTime": 1563994605679,
-            "changeTime": 1563994605679,
-            "contentHash": "bb24df55237749e69f01dbf082db83fb5f12f76e"
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/Question__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/Question__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2063,
             "modifiedTime": 1563994605686,
             "changeTime": 1563994605686,
-            "contentHash": "2a955cc450c5c0ac26e78a88b0a8096352838b5a"
+            "contentHash": "2a955cc450c5c0ac26e78a88b0a8096352838b5a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields/Order_Number__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields/Order_Number__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1563994605687,
             "changeTime": 1563994605687,
-            "contentHash": "7f26b0a3d8d3976993c4022af471c505c3d63cb3"
+            "contentHash": "7f26b0a3d8d3976993c4022af471c505c3d63cb3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields/Survey__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields/Survey__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 502,
             "modifiedTime": 1563994605687,
             "changeTime": 1563994605687,
-            "contentHash": "ef47bc90d57f835375d33955379dd3a617871685"
+            "contentHash": "ef47bc90d57f835375d33955379dd3a617871685",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -664,49 +643,49 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Taken_Survey__c-Taken Survey Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2083,
-            "modifiedTime": 1563994605693,
-            "changeTime": 1563994605693,
-            "contentHash": "fd3805f8c4caf629611d4c7b43dd648219542bb8"
+            "size": 2222,
+            "modifiedTime": 1564155976963,
+            "changeTime": 1564155976963,
+            "contentHash": "1e12c448d22e91a51dc9c17759b11d7e1b477051"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Answer__c-Answer Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Answer__c-Answer Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2364,
             "modifiedTime": 1563994605695,
             "changeTime": 1563994605695,
-            "contentHash": "fc8925554a076cee0d2ade66a4e503c8ebbe36b6"
+            "contentHash": "fc8925554a076cee0d2ade66a4e503c8ebbe36b6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Question__c-Question Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Question__c-Question Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2490,
             "modifiedTime": 1563994605697,
             "changeTime": 1563994605697,
-            "contentHash": "eb112da672c50f329b633e33e448c87555d4e690"
+            "contentHash": "eb112da672c50f329b633e33e448c87555d4e690",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Survey__c-Survey Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Survey__c-Survey Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2336,
             "modifiedTime": 1563994605699,
             "changeTime": 1563994605699,
-            "contentHash": "38846312cb9da12e5ab5126dca20f6ab6c1762a0"
+            "contentHash": "38846312cb9da12e5ab5126dca20f6ab6c1762a0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -716,10 +695,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts/Selected_Answer__c-Selected Answer Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2357,
-            "modifiedTime": 1563994605702,
-            "changeTime": 1563994605702,
-            "contentHash": "9ea424c0a32731fecac017ba3ed9b2416cc86387"
+            "size": 2363,
+            "modifiedTime": 1564155976966,
+            "changeTime": 1564155976966,
+            "contentHash": "2ddc8e3b918acad199343df340788eff89f47621"
         }
     ],
     [
@@ -729,10 +708,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 6844,
-            "modifiedTime": 1563994605744,
-            "changeTime": 1563994605744,
-            "contentHash": "61b4db0b705c68cb7d12dd04e98295611412e084"
+            "size": 6967,
+            "modifiedTime": 1564155977129,
+            "changeTime": 1564155977129,
+            "contentHash": "096427a76a297875fc9e50ac7aaf519a5fc2db4f"
         }
     ],
     [
@@ -742,10 +721,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 6506,
-            "modifiedTime": 1563994605747,
-            "changeTime": 1563994605747,
-            "contentHash": "266d13fa5da316d3cfecb5505368985423f2adbd"
+            "size": 6629,
+            "modifiedTime": 1564155977141,
+            "changeTime": 1564155977141,
+            "contentHash": "aaa2edb759d089a27ce12952030c424d557965d6"
         }
     ],
     [
@@ -755,101 +734,101 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 6506,
-            "modifiedTime": 1563994605751,
-            "changeTime": 1563994605751,
-            "contentHash": "266d13fa5da316d3cfecb5505368985423f2adbd"
+            "size": 6629,
+            "modifiedTime": 1564155977148,
+            "changeTime": 1564155977148,
+            "contentHash": "aaa2edb759d089a27ce12952030c424d557965d6"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605654,
             "changeTime": 1563994605654,
-            "contentHash": "2624ebf45f654ea69971608fcbf96e211e8b56e5"
+            "contentHash": "2624ebf45f654ea69971608fcbf96e211e8b56e5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1563994605685,
             "changeTime": 1563994605685,
-            "contentHash": "3b23468b78fe581f661756c51f3f60a136dc0552"
+            "contentHash": "3b23468b78fe581f661756c51f3f60a136dc0552",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Taken_Survey__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1563994605655,
             "changeTime": 1563994605655,
-            "contentHash": "4c2e8a71a28829df2bb6a8cba9d5e9b27f228760"
+            "contentHash": "4c2e8a71a28829df2bb6a8cba9d5e9b27f228760",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Survey__c",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Survey__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1563994605661,
             "changeTime": 1563994605661,
-            "contentHash": "ea54e012e7b1007374165de07adcdc2b5fd24fa5"
+            "contentHash": "ea54e012e7b1007374165de07adcdc2b5fd24fa5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605668,
             "changeTime": 1563994605668,
-            "contentHash": "dc032c7fce5a86eb1f44b5b214762c47eb37f7ac"
+            "contentHash": "dc032c7fce5a86eb1f44b5b214762c47eb37f7ac",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Answer__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605669,
             "changeTime": 1563994605669,
-            "contentHash": "581e8d9a3f21aa3ee57f016a8506a3941121d16d"
+            "contentHash": "581e8d9a3f21aa3ee57f016a8506a3941121d16d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605678,
             "changeTime": 1563994605678,
-            "contentHash": "0c357845df08f4fa567dfd9a3a8479aa96808f0a"
+            "contentHash": "0c357845df08f4fa567dfd9a3a8479aa96808f0a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -860,48 +839,204 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 160,
-            "modifiedTime": 1563994605679,
-            "changeTime": 1563994605679,
-            "contentHash": "bf8bf8a6469f5bd064d2c22879c2140bc6a2b5d7"
+            "modifiedTime": 1564155976959,
+            "changeTime": 1564155976959,
+            "contentHash": "5843d49a35d4e5ff7982a3f7b2eb1d8359e8aa8a"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605686,
             "changeTime": 1563994605686,
-            "contentHash": "7cafa82e5d6899024bd2a75e559e1bf4261f88e5"
+            "contentHash": "7cafa82e5d6899024bd2a75e559e1bf4261f88e5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Question__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1563994605687,
             "changeTime": 1563994605687,
-            "contentHash": "71f92ee1d76b902ace7ad3c7334c469f3f92a4ad"
+            "contentHash": "71f92ee1d76b902ace7ad3c7334c469f3f92a4ad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1563994605702,
             "changeTime": 1563994605702,
-            "contentHash": "a925b09e8e2d4cea5b290a4954861cf834db6b0d"
+            "contentHash": "a925b09e8e2d4cea5b290a4954861cf834db6b0d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey/surveyMonkey_createSurvey.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey/surveyMonkey_createSurvey.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1564155976947,
+            "changeTime": 1564155976947,
+            "contentHash": "f86b0c5551e05b3c9edcac24927acbcd4e21a1ec"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey/surveyMonkey_createSurvey.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey/surveyMonkey_createSurvey.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3757,
+            "modifiedTime": 1564155976948,
+            "changeTime": 1564155976948,
+            "contentHash": "2ec82f6b4118e85996c01579b547fbf66cd6f70d"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Taken_Survey__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/objects/Selected_Answer__c/fields/Taken_Survey__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 534,
+            "modifiedTime": 1564155976959,
+            "changeTime": 1564155976959,
+            "contentHash": "c9936771a9594f2896cdc7c2a4152c037c4180bb"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 648,
+            "modifiedTime": 1564155976968,
+            "changeTime": 1564155976968,
+            "contentHash": "dfc303aa4de8c633942a26d69a8233e912f35d11"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1564155976969,
+            "changeTime": 1564155976969,
+            "contentHash": "450898e20196e3157faadea2aed36010b2f467a2"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Link.email-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Link.email-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 640,
+            "modifiedTime": 1564155976971,
+            "changeTime": 1564155976971,
+            "contentHash": "7400a03441fbd4f2c89d399db594cbd3ee561242"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Link.email",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Link.email",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 879,
+            "modifiedTime": 1564155976971,
+            "changeTime": 1564155976971,
+            "contentHash": "b3f74509252615bad7f4362cbcea3fa580d3041f"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/flexipages/Survey_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/flexipages/Survey_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3748,
+            "modifiedTime": 1564155976975,
+            "changeTime": 1564155976975,
+            "contentHash": "6085b908d17acd7af38004873921a98e680a118b"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/Survey__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/Survey__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1564155976976,
+            "changeTime": 1564155976976,
+            "contentHash": "76512fe892410b632de766ebaaeaf759dce927a6"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_createSurvey",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1564155976948,
+            "changeTime": 1564155976948,
+            "contentHash": "10c7228d2ce46edbba225ca6983a6bd56c3ea038"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1564155976971,
+            "changeTime": 1564155976971,
+            "contentHash": "b835857b38d1ae0b1e849c82473fdb9d02933e59"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email",
+        {
+            "state": "u",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1564155976968,
+            "changeTime": 1564155976968,
+            "contentHash": "36b4ca4c5731877fa01de2265bc0e080036f21b0"
         }
     ]
 ]

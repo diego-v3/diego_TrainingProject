@@ -28,7 +28,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Selected_Answer__c.Survey__c</field>
+        <field>Selected_Answer__c.Taken_Survey__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -96,6 +96,10 @@
         <object>Taken_Survey__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabVisibilities>
+        <tab>Survey__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Taking_a_Survey</tab>
         <visibility>DefaultOn</visibility>

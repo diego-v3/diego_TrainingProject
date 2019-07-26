@@ -16,11 +16,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Survey__c</field>
+                <field>Answer__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Answer__c</field>
+                <field>Taken_Survey__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

@@ -28,7 +28,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Selected_Answer__c.Survey__c</field>
+        <field>Selected_Answer__c.Taken_Survey__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -51,6 +51,10 @@
     <layoutAssignments>
         <layout>Taken_Survey__c-Taken Survey Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Survey__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Taking_a_Survey</tab>
         <visibility>Hidden</visibility>
