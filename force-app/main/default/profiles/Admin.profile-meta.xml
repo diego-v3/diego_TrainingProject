@@ -100,6 +100,10 @@
         <object>Taken_Survey__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>takeSurveyVF</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <tabVisibilities>
         <tab>Survey__c</tab>
         <visibility>DefaultOn</visibility>
