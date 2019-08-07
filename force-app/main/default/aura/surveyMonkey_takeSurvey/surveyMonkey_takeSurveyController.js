@@ -20,7 +20,23 @@
         });
         $A.enqueueAction(action);
     },
+
     submit: function(component, event, helper) {
-        alert("You clicked: " + event.getSource().get("v.label"));
+        var surveyId = component.get('v.surveyId');
+        var action = component.get('c.prepareSubmission');
+        action.setParams({
+            'surveyId': surveyId
+        });
+        action.setCallback(this, function(response){
+            var state = response.getState();
+            if(state == 'SUCCESS') {
+                var answers = response.getReturnValue();
+
+                //component.set('v.answerList', answers);
+                helper.checkAnswers(answers);
+            }
+        });
+        $A.enqueueAction(action);
     }
+
 })

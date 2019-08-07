@@ -22,5 +22,16 @@ public with sharing class takeSurvey {
 
         return data;
     }
+
+    @AuraEnabled
+    public static List<Answer__c> prepareSubmission(String surveyId) {//optimize to just a list, no need to use map
+
+        List<Answer__c> answerIds = [SELECT Name, id, Question__c
+                                        FROM Answer__c
+                                        WHERE Question__r.Survey__c = :surveyId 
+                                        ORDER BY Question__c];
+
+        return answerIds;
+    }
 }
 

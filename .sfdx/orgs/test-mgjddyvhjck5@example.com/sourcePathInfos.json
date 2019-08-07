@@ -164,14 +164,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1565018116658,
-            "changeTime": 1563981397156,
-            "contentHash": "2b357f90917d341bbad06045baca5e91ccd88390",
+            "size": 224,
+            "modifiedTime": 1565126202615,
+            "changeTime": 1565126202615,
+            "contentHash": "a37f85cd5af41e6fea5bd84b8de7174c74b4cd11",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -181,10 +180,10 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey/surveyMonkey_takeSurvey.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 4542,
-            "modifiedTime": 1565041441704,
-            "changeTime": 1565041441704,
-            "contentHash": "68a509702714502ed1aa5ed525537206188c4ea2"
+            "size": 4058,
+            "modifiedTime": 1565188490156,
+            "changeTime": 1565188490156,
+            "contentHash": "482f3d5bf082d27d2e45cc27cf7621d08cd0579f"
         }
     ],
     [
@@ -220,14 +219,14 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey/surveyMonkey_takeSurveyController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey/surveyMonkey_takeSurveyController.js",
             "isDirectory": false,
+            "size": 1371,
+            "modifiedTime": 1565186372357,
+            "changeTime": 1565186372357,
+            "contentHash": "c89001589450c332e6770b517e9882e015c8d466",
             "isMetadataFile": false,
-            "size": 896,
-            "modifiedTime": 1565041628831,
-            "changeTime": 1565041628831,
-            "contentHash": "0027064d75603452f945d249656adc9b61ace79f"
+            "state": "u"
         }
     ],
     [
@@ -1079,10 +1078,10 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/takeSurvey.cls",
             "isDirectory": false,
-            "size": 945,
-            "modifiedTime": 1565033689643,
-            "changeTime": 1565033689643,
-            "contentHash": "287b9758ea986417aa3c968e402faa81db9a841f",
+            "size": 1378,
+            "modifiedTime": 1565121134847,
+            "changeTime": 1565121134847,
+            "contentHash": "83842473d23f244a315a35d15dc65975ea14a157",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1171,8 +1170,8 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkeyApp_takeSurvey",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1564675476011,
-            "changeTime": 1564675476011,
+            "modifiedTime": 1565126097286,
+            "changeTime": 1565126097286,
             "contentHash": "9205c9beeb4ecb825ca7a27f0dc8e18666edf7d4",
             "isMetadataFile": false,
             "state": "u"
@@ -1200,6 +1199,19 @@
             "modifiedTime": 1564753272170,
             "changeTime": 1564753272170,
             "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey/surveyMonkey_takeSurveyHelper.js",
+        {
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_takeSurvey/surveyMonkey_takeSurveyHelper.js",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1565188282747,
+            "changeTime": 1565188282747,
+            "contentHash": "3ac9db4e074b5365b49782cdbab2db47ed5fcf42",
             "isMetadataFile": false,
             "state": "u"
         }
