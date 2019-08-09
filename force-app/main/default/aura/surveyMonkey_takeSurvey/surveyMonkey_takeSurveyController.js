@@ -8,20 +8,18 @@
         });
         action.setCallback(this, function(response){
             var state = response.getState();
-            if(state == 'SUCCESS') {
-                var data = response.getReturnValue();
-                var surveyName = data.surveyName;
-                var questions = data.questions;
-
-                component.set('v.surveyName', surveyName);
-                component.set('v.questions', questions);
-                //component.set('v.sObjList', a.getReturnValue());
+            if(state == 'SUCCESS') {//update to new data structure
+                var survey = response.getReturnValue();
+                debugger
+                component.set('v.survey', survey);
             }
         });
         $A.enqueueAction(action);
     },
 
     submit: function(component, event, helper) {
+        debugger
+
         var surveyId = component.get('v.surveyId');
         var action = component.get('c.prepareSubmission');
         action.setParams({
