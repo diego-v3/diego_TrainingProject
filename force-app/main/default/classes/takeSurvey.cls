@@ -1,14 +1,9 @@
 public with sharing class takeSurvey {
 
-    //Use @AuraEnabled to enable client- and server-side access to the method
     @AuraEnabled
-    public static String serverEcho(String firstName) {
-        return ('Hello from the server, ' + firstName);
-    }
-
-    @AuraEnabled
-    public static Map<String, Object> getInitialData(String surveyId) {
+    public static Map<String, Object> getInitialData(ID surveyId) {
         Map<String, Object> surveyMap = new Map<String, Object>();
+        surveyMap.put('id', [SELECT Id, Name FROM Survey__c WHERE Id =:surveyId].Id);
         surveyMap.put('name', [SELECT Id, Name FROM Survey__c WHERE Id =:surveyId].Name);
 
         List<Question__c> records = [SELECT Id, Name, Order_Number__c, Survey__r.Name,
@@ -34,7 +29,7 @@ public with sharing class takeSurvey {
                 answerMap.put('id', answer.Id);
                 answerMap.put('name', answer.Name);
                 answerMap.put('orderNumber', answer.Order_Number__c);
-                answerMap.put('selected', true);
+                answerMap.put('selected', false);
                 answers.add(answerMap);
             }
             questionMap.put('answers', answers);
@@ -42,58 +37,55 @@ public with sharing class takeSurvey {
         }
         surveyMap.put('questions', questions);
 
-
-
-        // ITERIATE OVER QUESTIONS
-        // ITERATE OVER QUESTION ANSWERS
-        // BUILD AN ANSWER MAP, SET PROPERTY selected TO FALSE
-        // PUT THEM IN answers LIST
-        // BUIILD A QUESTION MAP
-        // PUT THEM IN questions LIST
-        // ADD questions TO data MAP
-        
-        //  {
-        //         surveyName: 'A',
-        //         questions: [
-        //             {
-        //                 answers: [
-        //                     {
-        //                         selected: false
-        //                     }
-        //                 ]
-        //             }
-        //         ]
-        //  }
-        
-        // List<Map<String, List<Map<String, Object>>>> questionList = new List<Map<String, List<Map<String, Object>>>>();
-        // Map<String, List<Map<String, Object>>> questionMap = new Map<String, List<Map<String, Object>>>();
-        // for(Question__c question : questions) {
-        //     List<Map<String, Object>> answers = new List<Map<String, Object>>();
-        //     for(Answer__c answer : question.Answers__r){
-        //         Map<String, Object> answerMap = new Map<String, Object>();
-        //         answerMap.put('name', answer.Name);
-        //         answerMap.put('id', answer.id);
-        //         answerMap.put('orderNumber', answer.Order_Number__c);
-        //         answerMap.put('selected', false);
-        //         //answerMap.put('surveyName', answer.Question__c.name);
-        //         answers.add(answerMap);
-        //     }
-        //     questionMap.put(question.Name, answers);
-            
-        // }   
-        // questionList.add(questionMap);
-
         return surveyMap;
     }
 
     @AuraEnabled
-    public static List<Answer__c> prepareSubmission(String surveyId) {//optimize to just a list, no need to use map
+    public static void insertRecords(Map<String, Object> survey) {
+        //List<Object> preparedAnswers = new List<Object>();
+        Taken_Survey__c takenSurvey = new Taken_Survey__c (
+            Name = (String)survey.get('name'),
+            Survey__c = (String)survey.get('id')
+        );
+        insert takenSurvey;
 
-        List<Answer__c> answerIds = [SELECT Name, id, Question__c
-                                        FROM Answer__c
-                                        WHERE Question__r.Survey__c = :surveyId 
-                                        ORDER BY Question__c];
+       
+        List<Selected_Answer__c> selectedAnswers = new List<Selected_Answer__c>();
+        List<Object> questions = (List<Object>)survey.get('questions');
+        for(Object question : questions) {
+            Map<Object, Object> questionMap = (Map<Object, Object>)question;
+            List<Object> answers = (List<Object>)questionMap.get('answers');
+            for(Object answer : answers) {
+                Map<Object, Object> answerMap = (Map<Object, Object>)answer;
+                if((Boolean)answerMap.get('selected')) {
+                    Selected_Answer__c selectedAnswer = new Selected_Answer__c (
+                        Taken_Survey__c = (String)takenSurvey.Id,
+                        Question__c = (String)questionMap.get('id'),
+                        Answer__c = (String)answerMap.get('id'),
+                        Name = (String)answerMap.get('name')
+                    );
+                    selectedAnswers.add(selectedAnswer);
+                }         
+            }
+        }
+        insert selectedAnswers;
 
-        return answerIds;
+
+
+
+        // for(integer i=0; i<survey.questions.size; i++) {
+        //     for(integer j=0; j<survey.questions.answers.size; j++){
+        //         if (answer.selected){
+        //             Map<String, Object> selectedAnswer = new Map<String, Object>();
+        //             selectedAnswer.put('answerId', answer.id);
+        //             selectedAnswer.put('questionId', question.id);
+        //             selectedAnswer.put('takenSurveyId', newAnswer.id);
+        //             selectedAnswer.put('answerName', answer.name);
+        //             preparedAnswers.add(selectedAnswer);
+        //         }
+        //     }
+        // }
+
+        //return preparedAnswers;
     }
 }

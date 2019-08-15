@@ -9,6 +9,10 @@
         <apexClass>takeSurvey</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>viewMySurveysVF</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -33,6 +37,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Selected_Answer__c.Taken_Survey__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Taken_Survey__c.Date_Created__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

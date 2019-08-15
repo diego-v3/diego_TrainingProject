@@ -1,7 +1,6 @@
 ({
     doInit: function(component, event, helper) {
         var surveyId = component.get('v.surveyId');
-
         var action = component.get('c.getInitialData');
         action.setParams({
             'surveyId': surveyId
@@ -10,7 +9,6 @@
             var state = response.getState();
             if(state == 'SUCCESS') {//update to new data structure
                 var survey = response.getReturnValue();
-                debugger
                 component.set('v.survey', survey);
             }
         });
@@ -18,23 +16,19 @@
     },
 
     submit: function(component, event, helper) {
-        debugger
-
         var surveyId = component.get('v.surveyId');
-        var action = component.get('c.prepareSubmission');
+        var action = component.get('c.insertRecords');
         action.setParams({
-            'surveyId': surveyId
+            'survey': component.get('v.survey')
         });
         action.setCallback(this, function(response){
             var state = response.getState();
             if(state == 'SUCCESS') {
-                var answers = response.getReturnValue();
-
-                //component.set('v.answerList', answers);
-                helper.checkAnswers(answers);
+                document.location.reload(true);
+            } else {
+                
             }
         });
-        $A.enqueueAction(action);
+        $A.enqueueAction(action); 
     }
-
 })
