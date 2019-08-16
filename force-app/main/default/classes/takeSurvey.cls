@@ -42,7 +42,6 @@ public with sharing class takeSurvey {
 
     @AuraEnabled
     public static void insertRecords(Map<String, Object> survey) {
-        //List<Object> preparedAnswers = new List<Object>();
         Taken_Survey__c takenSurvey = new Taken_Survey__c (
             Name = (String)survey.get('name'),
             Survey__c = (String)survey.get('id')
@@ -70,22 +69,5 @@ public with sharing class takeSurvey {
         }
         insert selectedAnswers;
 
-
-
-
-        // for(integer i=0; i<survey.questions.size; i++) {
-        //     for(integer j=0; j<survey.questions.answers.size; j++){
-        //         if (answer.selected){
-        //             Map<String, Object> selectedAnswer = new Map<String, Object>();
-        //             selectedAnswer.put('answerId', answer.id);
-        //             selectedAnswer.put('questionId', question.id);
-        //             selectedAnswer.put('takenSurveyId', newAnswer.id);
-        //             selectedAnswer.put('answerName', answer.name);
-        //             preparedAnswers.add(selectedAnswer);
-        //         }
-        //     }
-        // }
-
-        //return preparedAnswers;
     }
 }
