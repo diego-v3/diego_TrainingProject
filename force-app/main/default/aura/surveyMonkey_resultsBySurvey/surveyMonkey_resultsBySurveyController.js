@@ -7,11 +7,9 @@
         });
         action.setCallback(this, function(response){
             var state = response.getState();
-            if(state == 'SUCCESS') {//update to new data structure
+            if(state == 'SUCCESS') {
 				var surveys = response.getReturnValue();
-				console.log(surveys);
 				component.set('v.surveys', surveys);
-				debugger
             }
         });
         $A.enqueueAction(action);

@@ -1,7 +1,7 @@
 @isTest
 private class TakeSurveyTest {
+
      @isTest static void testGetInitialData() {
-        //var surveyId = '0054F000001PYnuQAG';
         Survey__c testSurvey = new Survey__c(Name='Who will win next election?');
         Test.startTest();
         insert testSurvey;
@@ -15,10 +15,11 @@ private class TakeSurveyTest {
         System.assertEquals(surveyDataMap.get('name'), 'Who will win next election?');
         System.assertEquals(surveyDataMap.get('id'), testId);
         List<Object> questionsRetrieved = (List<Object>)surveyDataMap.get('questions');
-        Map<String, Object> quest = (Map<String, Object>)questionsRetrieved.get(0);
-        System.assertEquals(quest.get('name'), 'Will it be you?');
-        //---
+        Map<String, Object> questionsMap = (Map<String, Object>)questionsRetrieved.get(0);
+        System.assertEquals(questionsMap.get('name'), 'Will it be you?');
+        System.assertEquals(questionsMap.get('id'), testQuestion.id);
     }
+
     @isTest static void testInsertRecords() {
         Map<String, Object> testSurveyMap = new Map<String, Object>();
         String surveyName = 'Who should you vote for?';
@@ -45,10 +46,8 @@ private class TakeSurveyTest {
         testQuestions.add(testQuestionMap);
         testSurveyMap.put('questions', testQuestions);
         takeSurvey.insertRecords(testSurveyMap);
-
         System.assertEquals(testSurveyMap.get('id'), testSurvey.id);
-
-        //var surveyId = '0054F000001PYnuQAG'
+        System.assertEquals(testSurveyMap.get('name'), surveyName);
     }
-    
+
 }

@@ -7,7 +7,7 @@
         });
         action.setCallback(this, function(response){
             var state = response.getState();
-            if(state == 'SUCCESS') {//update to new data structure
+            if(state == 'SUCCESS') {
                 var survey = response.getReturnValue();
                 component.set('v.survey', survey);
             }
@@ -16,7 +16,6 @@
     },
 
     submit: function(component, event, helper) {
-        var surveyId = component.get('v.surveyId');
         var action = component.get('c.insertRecords');
         action.setParams({
             'survey': component.get('v.survey')

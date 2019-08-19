@@ -28,6 +28,7 @@ private class ViewMySurveysTest {
         List<Taken_Survey__c> testList = new List<Taken_Survey__c>();
         testList.add(testTakenSurvey);
         System.assertEquals(surveyData[0].Name, testList[0].Name);
+        System.assertEquals(surveyData[0].Name, testList[0].Name);
     }
     
 }

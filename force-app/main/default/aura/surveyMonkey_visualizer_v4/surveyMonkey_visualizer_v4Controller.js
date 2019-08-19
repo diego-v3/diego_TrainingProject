@@ -9,7 +9,6 @@
             var state = response.getState();
             if(state == 'SUCCESS') {
 				var surveys = response.getReturnValue();
-				console.log(surveys);
 				for(var i=0; i<surveys.length; i++) {
 					surveys[i].expanded = false;
 				}

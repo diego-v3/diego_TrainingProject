@@ -31,7 +31,6 @@
             <div class="slds-p-horizontal_small">
                 <div class="sm-container_responses slds-p-horizontal_small slds-scrollable_y">
                     <ul class="sm-question-list">
-                        <!-- added iteration element-->
                         <aura:iteration items='{!v.survey.questions}' var="question">
                             <li class="sm-question-list__item slds-p-vertical_large slds-p-horizontal_x-small">
                                 <!-- Question # -->

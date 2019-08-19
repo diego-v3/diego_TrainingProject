@@ -22,7 +22,6 @@ public with sharing class takeSurvey {
             questionMap.put('id', record.Id);
             questionMap.put('name', record.Name);
             questionMap.put('orderNumber', record.Order_Number__c);
-
             List<Object> answers = new List<Object>();
             for(Answer__c answer : record.Answers__r) {
                 Map<String, Object> answerMap = new Map<String, Object>();
@@ -36,7 +35,6 @@ public with sharing class takeSurvey {
             questions.add(questionMap);
         }
         surveyMap.put('questions', questions);
-
         return surveyMap;
     }
 
@@ -47,8 +45,6 @@ public with sharing class takeSurvey {
             Survey__c = (String)survey.get('id')
         );
         insert takenSurvey;
-
-       
         List<Selected_Answer__c> selectedAnswers = new List<Selected_Answer__c>();
         List<Object> questions = (List<Object>)survey.get('questions');
         for(Object question : questions) {
@@ -68,6 +64,5 @@ public with sharing class takeSurvey {
             }
         }
         insert selectedAnswers;
-
     }
 }
