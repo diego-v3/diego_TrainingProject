@@ -33,7 +33,7 @@
                             <lightning:tabset>
                                 <lightning:tab label="Responses">
                                     <div class="sm-container_responses slds-p-horizontal_small slds-scrollable_y">
-                                        <aura:iteration items='{!survey.Selected_Answers__r}' var="questionnaire" indexVar="i">
+                                        <aura:iteration items='{!survey.Selected_Answers__r.records}' var="questionnaire" indexVar="i">
                                             <ul class="sm-question-list">
                                                 <li class="sm-question-list__item slds-p-vertical_large slds-p-horizontal_x-small">
                                                     <!-- Question # -->

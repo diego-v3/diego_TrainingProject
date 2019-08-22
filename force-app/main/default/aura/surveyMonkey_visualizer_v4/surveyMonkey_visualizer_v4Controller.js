@@ -1,6 +1,6 @@
 ({
 	doInit: function(component, event, helper) {
-		var action = component.get('c.getMyTakenSurveys');
+		var action = component.get('c.getData');
 		var userId = $A.get("$SObjectType.CurrentUser.Id");
 		action.setParams({
             'userId': userId
@@ -8,11 +8,15 @@
         action.setCallback(this, function(response){
             var state = response.getState();
             if(state == 'SUCCESS') {
-				var surveys = response.getReturnValue();
+				//var surveys = response.getReturnValue();
+				var parsedRes = JSON.parse(response.getReturnValue());//new
+                var surveys = parsedRes.results.data;//new
 				for(var i=0; i<surveys.length; i++) {
 					surveys[i].expanded = false;
+                    //surveys[i].answers = surveys[i].selectedAnswers.records;
 				}
 				component.set('v.surveys', surveys);
+                debugger
             }
         });
         $A.enqueueAction(action);
