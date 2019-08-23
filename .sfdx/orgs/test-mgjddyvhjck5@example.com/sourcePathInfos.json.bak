@@ -4,10 +4,10 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1563981393720,
-            "changeTime": 1563981396963,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 128,
+            "modifiedTime": 1566227312725,
+            "changeTime": 1566227312725,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -19,10 +19,10 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1563981393721,
-            "changeTime": 1563981396976,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "size": 128,
+            "modifiedTime": 1566227312726,
+            "changeTime": 1566227312726,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -32,14 +32,15 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default",
             "isDirectory": true,
+            "size": 480,
+            "modifiedTime": 1566413023505,
+            "changeTime": 1566413023505,
+            "contentHash": "763d22e0c7fcfd29e4119066e2273f2abeec3b4d",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1566316818002,
-            "changeTime": 1566316818002,
-            "contentHash": "58f7a64fcc353a665c838894deb7e75ac2ab9ea8"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -82,7 +83,9 @@
             "changeTime": 1564675476008,
             "contentHash": "4cb659082b0b9a04562affa65262e56581af838a",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -111,7 +114,8 @@
             "contentHash": "926edb3d446ea6fa959eb8b43270732216353e6a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -155,7 +159,8 @@
             "contentHash": "938fb83a0b336482fd1c3197276543eff0eeee34",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -169,7 +174,8 @@
             "contentHash": "a37f85cd5af41e6fea5bd84b8de7174c74b4cd11",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -182,7 +188,9 @@
             "changeTime": 1566222028144,
             "contentHash": "356b073314ece29b1ab71eeba2305ba0203f9064",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -225,7 +233,9 @@
             "changeTime": 1566222070403,
             "contentHash": "b9cf2443ba45b1b484df4bea3146e197bf8ed2c6",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -238,7 +248,9 @@
             "changeTime": 1565906318891,
             "contentHash": "1b71908548fed1c9a47b6680b30a669f66e2fc5c",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -246,10 +258,10 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_visualizer_v4/surveyMonkey_visualizer_v4.cmp",
             "isDirectory": false,
-            "size": 6215,
-            "modifiedTime": 1566222104070,
-            "changeTime": 1566222104070,
-            "contentHash": "1c2a737fe166e168b292cac247d6dbb59393fb02",
+            "size": 6223,
+            "modifiedTime": 1566499076538,
+            "changeTime": 1566499076538,
+            "contentHash": "df5d37965cd5da4c254db15c3eae33bf84c71b30",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -290,10 +302,10 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/aura/surveyMonkey_visualizer_v4/surveyMonkey_visualizer_v4Controller.js",
             "isDirectory": false,
-            "size": 1023,
-            "modifiedTime": 1566221765412,
-            "changeTime": 1566221765412,
-            "contentHash": "f8f94b251b6897e9e887ffd2d785ba420f42f307",
+            "size": 1081,
+            "modifiedTime": 1566505510585,
+            "changeTime": 1566505510585,
+            "contentHash": "595dac87c80ca93e5f4fc388969fbb51e8471365",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -309,7 +321,9 @@
             "changeTime": 1564155976975,
             "contentHash": "a94e6daa29cdd3c4e9df04479657bd97158d286c",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -330,27 +344,28 @@
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles",
             "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1566320279776,
+            "changeTime": 1566320279776,
+            "contentHash": "7e77a1548f243fe20b9fcb5e587dd5e11a6d0d9e",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1566316817991,
-            "changeTime": 1566316817991,
-            "contentHash": "ea0fe36fb537dad2c3e6c318390067e2928392bb"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 5137,
+            "modifiedTime": 1566413005366,
+            "changeTime": 1566413005366,
+            "contentHash": "9d3dd0b2f30a98323f1ff610d52d792829550c46",
             "isMetadataFile": true,
-            "size": 24274,
-            "modifiedTime": 1566316817969,
-            "changeTime": 1566316817969,
-            "contentHash": "9e6647ae315d14baf9246a9db0494ebab6c3dad3"
+            "state": "u"
         }
     ],
     [
@@ -408,7 +423,9 @@
             "changeTime": 1564155977150,
             "contentHash": "1b0a8b6fb0f119e32479fbd26b14a5191ff60eae",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -416,14 +433,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/Taking_a_Survey.tab-meta.xml",
             "isDirectory": false,
-            "size": 284,
-            "modifiedTime": 1563981393728,
-            "changeTime": 1563981398870,
-            "contentHash": "e53d79cd253087d3f324871ed538ac6f09e846fb",
+            "size": 247,
+            "modifiedTime": 1566413368888,
+            "changeTime": 1566413368888,
+            "contentHash": "9370573cbe2c8af509f8d19405d1b4fd0f3a3ff1",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -431,14 +447,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/View_My_Surveys.tab-meta.xml",
             "isDirectory": false,
-            "size": 281,
-            "modifiedTime": 1563981393728,
-            "changeTime": 1563981398899,
-            "contentHash": "98b896ccb69ff5cb5ef525918faa1ade8504ff4f",
+            "size": 244,
+            "modifiedTime": 1566413373109,
+            "changeTime": 1566413373109,
+            "contentHash": "f1918b6e8938fd0ff7e49e42ccf5b1e2c83b5d95",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -446,14 +461,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/View_Surveys_by_Template.tab-meta.xml",
             "isDirectory": false,
-            "size": 293,
-            "modifiedTime": 1563981393728,
-            "changeTime": 1563981398917,
-            "contentHash": "db5f0416be8d20bc619a04053ff812a03b415b93",
+            "size": 256,
+            "modifiedTime": 1566413375594,
+            "changeTime": 1566413375594,
+            "contentHash": "19fb50d1747826c6c03b0cfb86aa1e8f7b08e915",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -462,9 +476,9 @@
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject",
             "isDirectory": true,
             "size": 384,
-            "modifiedTime": 1566226983896,
-            "changeTime": 1566226983896,
-            "contentHash": "5b0621112b20e7f65037677840020003441ba989",
+            "modifiedTime": 1566502154779,
+            "changeTime": 1566502154779,
+            "contentHash": "a608cc0f5a8ef0783a7b7fafafc36f0b116fa5a1",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -480,7 +494,9 @@
             "changeTime": 1565646606794,
             "contentHash": "bf960f61c97872b49b294f7f4725c5c2197378b2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -493,7 +509,9 @@
             "changeTime": 1565721256759,
             "contentHash": "2e74100e4166d644ed3dec549f7ed1030df5ec56",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -503,10 +521,12 @@
             "isDirectory": false,
             "size": 2056,
             "modifiedTime": 1563994605661,
-            "changeTime": 1563994605661,
+            "changeTime": 1563994606280,
             "contentHash": "8e2b7e8f7e09dbae650d1ce25bc5d87e7408d19d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -516,10 +536,12 @@
             "isDirectory": false,
             "size": 2092,
             "modifiedTime": 1563994605668,
-            "changeTime": 1563994605668,
+            "changeTime": 1563994606294,
             "contentHash": "758a0f8e959b52973d00cb9f2a5190080a9045c8",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -532,7 +554,9 @@
             "changeTime": 1565987346782,
             "contentHash": "66a5a1c520c4581b8aa3973cb5d96a6a282ccca7",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -542,10 +566,12 @@
             "isDirectory": false,
             "size": 504,
             "modifiedTime": 1563994605669,
-            "changeTime": 1563994605669,
+            "changeTime": 1563994606342,
             "contentHash": "27221e4d52f8d77c5022d231ecf6c7fdf499d929",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -555,10 +581,12 @@
             "isDirectory": false,
             "size": 2084,
             "modifiedTime": 1563994605677,
-            "changeTime": 1563994605677,
+            "changeTime": 1563994606357,
             "contentHash": "4e594004682bf6726a739e97e5afe021a4bf59f5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -568,10 +596,12 @@
             "isDirectory": false,
             "size": 516,
             "modifiedTime": 1563994605678,
-            "changeTime": 1563994605678,
+            "changeTime": 1563994606372,
             "contentHash": "5c6434acaac8f2b8a98e1f589f2c6909b710d95f",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -581,10 +611,12 @@
             "isDirectory": false,
             "size": 522,
             "modifiedTime": 1563994605678,
-            "changeTime": 1563994605678,
+            "changeTime": 1563994606382,
             "contentHash": "26e3836ffa41fd296b02666f74a9eb4bf34a0de9",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -594,10 +626,12 @@
             "isDirectory": false,
             "size": 2063,
             "modifiedTime": 1563994605686,
-            "changeTime": 1563994605686,
+            "changeTime": 1563994606564,
             "contentHash": "2a955cc450c5c0ac26e78a88b0a8096352838b5a",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -610,7 +644,9 @@
             "changeTime": 1565978900442,
             "contentHash": "66a5a1c520c4581b8aa3973cb5d96a6a282ccca7",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -620,10 +656,12 @@
             "isDirectory": false,
             "size": 502,
             "modifiedTime": 1563994605687,
-            "changeTime": 1563994605687,
+            "changeTime": 1563994606600,
             "contentHash": "ef47bc90d57f835375d33955379dd3a617871685",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -636,7 +674,9 @@
             "changeTime": 1565799568179,
             "contentHash": "d9a1998a19a5db6d4282d868225dde993e3af3cd",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -646,10 +686,12 @@
             "isDirectory": false,
             "size": 2364,
             "modifiedTime": 1563994605695,
-            "changeTime": 1563994605695,
+            "changeTime": 1563994606766,
             "contentHash": "fc8925554a076cee0d2ade66a4e503c8ebbe36b6",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -659,10 +701,12 @@
             "isDirectory": false,
             "size": 2490,
             "modifiedTime": 1563994605697,
-            "changeTime": 1563994605697,
+            "changeTime": 1563994606781,
             "contentHash": "eb112da672c50f329b633e33e448c87555d4e690",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -675,7 +719,9 @@
             "changeTime": 1564167919704,
             "contentHash": "aa3df8d5c2bcce28b4613552ce0bcc9ef6afc5d3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -688,46 +734,9 @@
             "changeTime": 1564155976966,
             "contentHash": "2ddc8e3b918acad199343df340788eff89f47621",
             "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 7488,
-            "modifiedTime": 1565799568258,
-            "changeTime": 1565799568258,
-            "contentHash": "3cac343da32bdeba0cb96ace917fe79c05b9e6b6",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 7150,
-            "modifiedTime": 1565799568278,
-            "changeTime": 1565799568278,
-            "contentHash": "5eca157bb02838e1d5580338eaf588aa7a1bc436",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 7150,
-            "modifiedTime": 1565799568290,
-            "changeTime": 1565799568290,
-            "contentHash": "5eca157bb02838e1d5580338eaf588aa7a1bc436",
-            "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -737,10 +746,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605654,
-            "changeTime": 1563994605654,
+            "changeTime": 1563994606199,
             "contentHash": "2624ebf45f654ea69971608fcbf96e211e8b56e5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -750,10 +761,12 @@
             "isDirectory": true,
             "size": 224,
             "modifiedTime": 1563994605685,
-            "changeTime": 1563994605685,
+            "changeTime": 1563994605996,
             "contentHash": "3b23468b78fe581f661756c51f3f60a136dc0552",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -766,7 +779,9 @@
             "changeTime": 1565799568173,
             "contentHash": "c6fe8114264094a43bd299d90b240fd0070ffbd5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -779,7 +794,9 @@
             "changeTime": 1564167919695,
             "contentHash": "fbe876d849b845b1fad31df46aaaf1f820d3c567",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -789,10 +806,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605668,
-            "changeTime": 1563994605668,
+            "changeTime": 1563994606288,
             "contentHash": "dc032c7fce5a86eb1f44b5b214762c47eb37f7ac",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -802,10 +821,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605669,
-            "changeTime": 1563994605669,
+            "changeTime": 1563994606303,
             "contentHash": "581e8d9a3f21aa3ee57f016a8506a3941121d16d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -815,10 +836,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605678,
-            "changeTime": 1563994605678,
+            "changeTime": 1563994606349,
             "contentHash": "0c357845df08f4fa567dfd9a3a8479aa96808f0a",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -831,7 +854,9 @@
             "changeTime": 1564155976959,
             "contentHash": "5843d49a35d4e5ff7982a3f7b2eb1d8359e8aa8a",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -841,10 +866,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605686,
-            "changeTime": 1563994605686,
+            "changeTime": 1563994606559,
             "contentHash": "7cafa82e5d6899024bd2a75e559e1bf4261f88e5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -854,10 +881,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1563994605687,
-            "changeTime": 1563994605687,
+            "changeTime": 1563994606577,
             "contentHash": "71f92ee1d76b902ace7ad3c7334c469f3f92a4ad",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -867,10 +896,12 @@
             "isDirectory": true,
             "size": 224,
             "modifiedTime": 1563994605702,
-            "changeTime": 1563994605702,
+            "changeTime": 1563994606682,
             "contentHash": "a925b09e8e2d4cea5b290a4954861cf834db6b0d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -880,10 +911,12 @@
             "isDirectory": false,
             "size": 228,
             "modifiedTime": 1564155976947,
-            "changeTime": 1564155976947,
+            "changeTime": 1564155977491,
             "contentHash": "f86b0c5551e05b3c9edcac24927acbcd4e21a1ec",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -893,10 +926,12 @@
             "isDirectory": false,
             "size": 3757,
             "modifiedTime": 1564155976948,
-            "changeTime": 1564155976948,
+            "changeTime": 1564155977600,
             "contentHash": "2ec82f6b4118e85996c01579b547fbf66cd6f70d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -906,10 +941,12 @@
             "isDirectory": false,
             "size": 534,
             "modifiedTime": 1564155976959,
-            "changeTime": 1564155976959,
+            "changeTime": 1564155977616,
             "contentHash": "c9936771a9594f2896cdc7c2a4152c037c4180bb",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -917,12 +954,14 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email-meta.xml",
             "isDirectory": false,
-            "size": 648,
-            "modifiedTime": 1564155976968,
-            "changeTime": 1564155976968,
-            "contentHash": "dfc303aa4de8c633942a26d69a8233e912f35d11",
+            "size": 590,
+            "modifiedTime": 1566250844582,
+            "changeTime": 1566250844582,
+            "contentHash": "c7bc5483beef17f3dcb3215694476b594e8c3705",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -930,12 +969,14 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Question.email",
             "isDirectory": false,
-            "size": 402,
-            "modifiedTime": 1564155976969,
-            "changeTime": 1564155976969,
-            "contentHash": "450898e20196e3157faadea2aed36010b2f467a2",
+            "size": 331,
+            "modifiedTime": 1566240040709,
+            "changeTime": 1566240040709,
+            "contentHash": "2350f26e370b6f749d794f2e75f4629b46beda00",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -943,12 +984,14 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/email/unfiled$public/Embed_a_Survey_Link.email-meta.xml",
             "isDirectory": false,
-            "size": 640,
-            "modifiedTime": 1564155976971,
-            "changeTime": 1564155976971,
-            "contentHash": "7400a03441fbd4f2c89d399db594cbd3ee561242",
+            "size": 582,
+            "modifiedTime": 1566240047804,
+            "changeTime": 1566240047804,
+            "contentHash": "ebc8130fabc8cd7762eb257e5e720b932e17e287",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -958,10 +1001,12 @@
             "isDirectory": false,
             "size": 879,
             "modifiedTime": 1564155976971,
-            "changeTime": 1564155976971,
+            "changeTime": 1564155977795,
             "contentHash": "b3f74509252615bad7f4362cbcea3fa580d3041f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -971,10 +1016,12 @@
             "isDirectory": false,
             "size": 3748,
             "modifiedTime": 1564155976975,
-            "changeTime": 1564155976975,
+            "changeTime": 1564155977897,
             "contentHash": "6085b908d17acd7af38004873921a98e680a118b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -982,12 +1029,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/tabs/Survey__c.tab-meta.xml",
             "isDirectory": false,
-            "size": 223,
-            "modifiedTime": 1564155976976,
-            "changeTime": 1564155976976,
-            "contentHash": "76512fe892410b632de766ebaaeaf759dce927a6",
+            "size": 186,
+            "modifiedTime": 1566413366058,
+            "changeTime": 1566413366058,
+            "contentHash": "428ff5b8980f37163455e8fe2a740cd74f586839",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -997,10 +1045,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1564155976948,
-            "changeTime": 1564155976948,
+            "changeTime": 1564155977440,
             "contentHash": "10c7228d2ce46edbba225ca6983a6bd56c3ea038",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1010,10 +1060,12 @@
             "isDirectory": true,
             "size": 192,
             "modifiedTime": 1564155976971,
-            "changeTime": 1564155976971,
+            "changeTime": 1564155977672,
             "contentHash": "b835857b38d1ae0b1e849c82473fdb9d02933e59",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1023,10 +1075,12 @@
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1564155976968,
-            "changeTime": 1564155976968,
+            "changeTime": 1564155977654,
             "contentHash": "36b4ca4c5731877fa01de2265bc0e080036f21b0",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1039,7 +1093,9 @@
             "changeTime": 1564672891801,
             "contentHash": "e2199fdcd51612c5e9f73b37706df470504e5bd3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1049,10 +1105,12 @@
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1564167919696,
-            "changeTime": 1564167919696,
+            "changeTime": 1564167919782,
             "contentHash": "b10b4431c5e8bf61cae144041bb5bab27e59fbee",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1060,12 +1118,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1565966868050,
-            "changeTime": 1565966868050,
-            "contentHash": "bad0b46e520b11de1258cfdcdc67f2e8591ab084",
+            "size": 448,
+            "modifiedTime": 1566416242555,
+            "changeTime": 1566416242555,
+            "contentHash": "7b0716a115e3e25e586faed9bfbdfd25d8e7fbab",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1078,7 +1137,9 @@
             "changeTime": 1566222171452,
             "contentHash": "01082f556e86a98cf206832b12e5ebc786d359e0",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1091,7 +1152,9 @@
             "changeTime": 1564580180575,
             "contentHash": "550a655eeb83bf5b02bbaf88113f9b4833219908",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1101,10 +1164,12 @@
             "isDirectory": false,
             "size": 288,
             "modifiedTime": 1564672891794,
-            "changeTime": 1564672891794,
+            "changeTime": 1564672891900,
             "contentHash": "7989550d38d93205de87da81e9bed16580297b3f",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1117,7 +1182,9 @@
             "changeTime": 1565017021758,
             "contentHash": "b257ec27dec7bc2ba2a2dbea7ab1e4aed42f29d7",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1127,10 +1194,12 @@
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1564677469381,
-            "changeTime": 1564672891795,
+            "changeTime": 1564677469381,
             "contentHash": "eb882341d53d6a67ff95c0ecd2796a77018eb161",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1140,10 +1209,12 @@
             "isDirectory": false,
             "size": 228,
             "modifiedTime": 1564675476010,
-            "changeTime": 1564675476010,
+            "changeTime": 1564675476088,
             "contentHash": "f86b0c5551e05b3c9edcac24927acbcd4e21a1ec",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1153,10 +1224,12 @@
             "isDirectory": false,
             "size": 136,
             "modifiedTime": 1564675476012,
-            "changeTime": 1564675476012,
+            "changeTime": 1564675476107,
             "contentHash": "4991cbb4dafc4d53b8577e55795a56fccf85cf94",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1169,7 +1242,9 @@
             "changeTime": 1565126097286,
             "contentHash": "9205c9beeb4ecb825ca7a27f0dc8e18666edf7d4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1182,7 +1257,9 @@
             "changeTime": 1565646545611,
             "contentHash": "9afd5e76dfbe7baffff4ef67152cd999f35b4e43",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1192,10 +1269,12 @@
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1564753272170,
-            "changeTime": 1564753272170,
+            "changeTime": 1564753272242,
             "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1208,7 +1287,9 @@
             "changeTime": 1566221797406,
             "contentHash": "0ac2efe81645ca790bcb1126d573c9408bdb386e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1218,10 +1299,12 @@
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1565721256764,
-            "changeTime": 1565721256764,
+            "changeTime": 1565721256908,
             "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1229,12 +1312,13 @@
         {
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/viewMySurveysVF.cls",
             "isDirectory": false,
-            "size": 674,
-            "modifiedTime": 1566222221404,
-            "changeTime": 1565906293696,
-            "contentHash": "fc2b374087e2e74610fd4c7414dc90474744e074",
+            "size": 1280,
+            "modifiedTime": 1566503112509,
+            "changeTime": 1566503112509,
+            "contentHash": "3eb02da37ba690b767fd78a706ce83be9da80113",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1244,10 +1328,12 @@
             "isDirectory": false,
             "size": 359,
             "modifiedTime": 1565799568173,
-            "changeTime": 1565799568173,
+            "changeTime": 1565799568343,
             "contentHash": "8545ad24fd0d0c8861c0682b781b3cd0a7f13e98",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1257,10 +1343,12 @@
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1565963835766,
-            "changeTime": 1565963835766,
+            "changeTime": 1565963835831,
             "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1273,7 +1361,9 @@
             "changeTime": 1566222802120,
             "contentHash": "9481d9de17389a12d3ac403dfe9d35956fe6083a",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1286,111 +1376,75 @@
             "changeTime": 1565966868089,
             "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/ViewMySurveysTest.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/ViewMySurveysTest.cls",
             "isDirectory": false,
-            "size": 1618,
-            "modifiedTime": 1566223290012,
-            "changeTime": 1566223290012,
-            "contentHash": "9f0f10e13edd1a058b85116bc42440bd8d4bd6cd",
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1566506770417,
+            "changeTime": 1566506770417,
+            "isWorkspace": false,
+            "contentHash": "6b0d228e04ed32093ac92fe364fe06efefd9597e"
+        }
+    ],
+    [
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/constants.cls",
+        {
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/constants.cls",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1566416290394,
+            "changeTime": 1566416290394,
+            "contentHash": "1ce8ff1cc4859ad519d0b92b73407f27b1c5786f",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Sys Admin.profile-meta.xml",
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/constants.cls-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profiles/Sys Admin.profile-meta.xml",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/constants.cls-meta.xml",
             "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1566416177213,
+            "changeTime": 1566416242621,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
             "isMetadataFile": true,
-            "size": 24273,
-            "modifiedTime": 1566316817991,
-            "changeTime": 1566316817991,
-            "contentHash": "c2e9383e1c6f23e3a0eccef6f01eb5fb84440543"
+            "state": "u"
         }
     ],
     [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies/PT1_profilePasswordPolicy1566315021032.profilePasswordPolicy-meta.xml",
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/responseData.cls",
         {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies/PT1_profilePasswordPolicy1566315021032.profilePasswordPolicy-meta.xml",
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/responseData.cls",
             "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 632,
-            "modifiedTime": 1566316817993,
-            "changeTime": 1566316817993,
-            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies/Sys_Admin_profilePasswordPolicy1566315059633.profilePasswordPolicy-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies/Sys_Admin_profilePasswordPolicy1566315059633.profilePasswordPolicy-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 636,
-            "modifiedTime": 1566316817996,
-            "changeTime": 1566316817996,
-            "contentHash": "93eb28776a31ae896bcb8f0ae904622ca9178919"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings/PT1_profileSessionSetting1566315021176.profileSessionSetting-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings/PT1_profileSessionSetting1566315021176.profileSessionSetting-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 432,
-            "modifiedTime": 1566316818004,
-            "changeTime": 1566316818004,
-            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings/null_profileSessionSetting1566315059674.profileSessionSetting-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings/null_profileSessionSetting1566315059674.profileSessionSetting-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 436,
-            "modifiedTime": 1566316818006,
-            "changeTime": 1566316818006,
-            "contentHash": "1093164a732baf01263383a8002fed8709eefcb0"
-        }
-    ],
-    [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies",
-        {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profilePasswordPolicies",
-            "isDirectory": true,
+            "size": 798,
+            "modifiedTime": 1566416173654,
+            "changeTime": 1566416242656,
+            "contentHash": "024922b843e869c4b4c55379ac4f5968e6aa59d7",
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1566316817995,
-            "changeTime": 1566316817995,
-            "contentHash": "a01aae05ceb13c15da88f5d454ad2cef955b14e8"
+            "state": "u"
         }
     ],
     [
-        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings",
+        "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/responseData.cls-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/profileSessionSettings",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1566316818006,
-            "changeTime": 1566316818006,
-            "contentHash": "7bcd587b16dee7afd3c321b6eac1e0db0e1b98b4"
+            "sourcePath": "/Users/diegovega/Dropbox/Projects/diego_TrainingProject/force-app/main/default/classes/responseData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1566416174724,
+            "changeTime": 1566416242649,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
