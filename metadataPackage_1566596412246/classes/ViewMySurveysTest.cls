@@ -1,0 +1,42 @@
+@isTest
+private class ViewMySurveysTest {
+     @isTest static void testGetData() {
+        responseData rd = new responseData();
+        date mydate = date.parse('12/27/2009');
+        Survey__c testSurvey = new Survey__c(Name='Survey Template for testing');
+        Taken_Survey__c testTakenSurvey = new Taken_Survey__c(Name='Test Survey 01', Date_Created__c=mydate);
+        Test.startTest();
+        insert testSurvey;
+        insert testTakenSurvey;
+        Question__c testQuestion = new Question__c(Name='Did you do it?', Survey__c=testSurvey.id);
+        insert testQuestion;
+        Selected_Answer__c testAnswer = new Selected_Answer__c(Name='The answer is yes.', Question__c=testQuestion.id);
+        insert testAnswer;
+        Test.stopTest();
+        String response = viewMySurveysVF.getData('a043i000005Wy5zAAC');
+        Map<String, Object> responseMap = (Map<String, Object>)JSON.deserializeUntyped(response);
+        Map<String, Object> dataMap = (Map<String, Object>)responseMap.get('results');
+        List<Object> surveyList = (List<Object>)dataMap.get('data'); 
+        System.assertEquals(surveyList, null);
+    }
+
+    @isTest static void testGetSurveysByTemplate() {
+        date mydate = date.parse('12/27/2009');
+        Taken_Survey__c testTakenSurvey = new Taken_Survey__c(Name='Test Survey 02', Date_Created__c=mydate);
+        Test.startTest();
+        insert testTakenSurvey;
+        Test.stopTest();
+        // List<Taken_Survey__c> surveyData = viewMySurveysVF.getSurveysByTemplate();
+        // List<Taken_Survey__c> testList = new List<Taken_Survey__c>();
+        // testList.add(testTakenSurvey);
+        // System.assertEquals(surveyData[0].Name, testList[0].Name);
+        // System.assertEquals(surveyData[0].Name, testList[0].Name);
+        String response = viewMySurveysVF.getSurveysByTemplate();
+        Map<String, Object> responseMap = (Map<String, Object>)JSON.deserializeUntyped(response);
+        Map<String, Object> dataMap = (Map<String, Object>)responseMap.get('results');
+        List<Object> surveyList = (List<Object>)dataMap.get('data'); 
+        Map<String, Object> survey = (Map<String, Object>)surveyList.get(0);
+        System.assertEquals(testTakenSurvey.Name, (String)survey.get('Name'));
+    }
+    
+}

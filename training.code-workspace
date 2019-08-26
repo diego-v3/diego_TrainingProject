@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"eslint.nodePath": "/Users/diegovega/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-46.10.0/node_modules"
+	}
+}

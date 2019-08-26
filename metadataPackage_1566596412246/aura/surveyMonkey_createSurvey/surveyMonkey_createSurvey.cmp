@@ -1,0 +1,60 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,force:apphostable" access="global">
+    <aura:attribute name="customerSurveyIsOpen" type="Boolean" default="{!false}" />
+    <aura:attribute name="productReviewIsOpen" type="Boolean" default="{!false}" />
+
+    <div class="slds-scope sm-card slds-card">
+        <div class="slds-card__header slds-grid slds-m-bottom_large">
+            <header class="slds-media slds-media_center slds-has-flexi-truncate">
+                <div class="slds-media__figure">
+                    <img src="{!$Resource.surveyMonkey_logo_hz}" style="height:30px;" />
+                </div>
+                <div class="slds-media__body">
+                    <h2 class="slds-card__header-title">
+                        <a href="javascript:void(0);" class="slds-card__header-link slds-truncate" title="Accounts">
+                            <span class="slds-text-heading_small"></span>
+                        </a>
+                    </h2>
+                </div>
+            </header>
+        </div>
+        <div class="slds-card__body slds-card__body_inner">
+            <div class="slds-p-horizontal_small">
+                <div class="slds-section slds-is-open">
+                    <h3 class="slds-section__title">
+                        <button aria-controls="expando-unique-id" aria-expanded="true" class="slds-button slds-section__title-action" onclick="{!c.customerSurveyButtonClick}">
+                            <lightning:icon iconName="{!'utility:' + if(v.customerSurveyIsOpen, 'chevrondown', 'chevronright')}" alternativeText="View Results" size="x-small" class="slds-m-right_small" />
+                            <span class="slds-truncate" title="Section Title">Aurthor Song • 01/06/2099</span>
+                        </button>
+                    </h3>
+                    <div aria-hidden="false" class="{!if(v.customerSurveyIsOpen, 'slds-section__content slds-p-horizontal_medium', 'slds-hide')}" id="expando-unique-id">
+                        <div class="slds-m-vertical_medium slds-m-horizontal_large">
+                            <div class="slds-text-heading_medium slds-p-bottom_medium slds-border_bottom slds-p-horizontal_large">
+                                Customer Satisfaction Survey
+                            </div>
+                        </div>
+                        <div class="sm-container_responses slds-p-horizontal_small slds-scrollable_y">
+                            <ul class="sm-question-list">
+                                <li class="sm-question-list__item slds-p-vertical_large slds-p-horizontal_x-small">
+                                    <!-- Question # -->
+                                    <h4 class="slds-text-title_caps slds-m-bottom_small">
+                                        <strong>Q1</strong>
+                                    </h4>
+                                    <!-- /Question # -->
+                                    <!-- Question -->
+                                    <h2 class="slds-text-heading_medium slds-m-bottom_medium">
+                                        What best describes your occupation? 
+                                    </h2>
+                                    <!-- /Question -->
+                                    <!-- Response -->
+                                    <h4 class="slds-text-heading_small slds-m-left_medium">
+                                        Web Developer
+                                    </h4>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</aura:component>
